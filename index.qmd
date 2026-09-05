@@ -1,5 +1,5 @@
 ---
-title: "Introduction to the Quarto Universe"
+title: "Gateways 2026 Tutorial"
 format:
   live-revealjs:
     theme: [default, custom.scss]

@@ -1,1 +1,8 @@
-# Interactive R, Python, and Shiny in the Browser with Quarto and Shinylive
+# Integrating Data Tools and Interactives with Open Educational Resources: From Creation to Publishing to Teaching
+
+by Drew LaMar, Sam Donovan, and Deborah Rook
+
+**Abstract**:
+Science gateways can achieve broader impacts through the creation of teaching materials, like Open Educational Resources (OER), that utilize their gateway’s scientific data and computational tools. However, many educators and researchers remain unsure how to create, enrich, and publish them effectively. This hands-on tutorial guides participants through the full OER lifecycle, from authoring and interactive tool development to publishing and classroom integration. Participants will be introduced to the landscape of education gateways and OER authoring platforms, including Gala, PreTeXt, and Quarto, before diving into practical experience creating their own learning module using Quarto on Posit Cloud. The tutorial then explores how data tools, such as Observable and Jupyter Notebooks, and modern WebAssembly-based technologies, such as Quarto Live and Shinylive, can transform static content into dynamic, interactive learning experiences. The final portion of the tutorial covers publishing workflows, as well as strategies for effectively deploying OERs in teaching contexts. By the end of the session, participants will leave with a clear pathway for developing and sharing OERs within their own gateway communities.
+
+Tutorial given on September 8, 2026 for the [Gateways 2026 Conference](https://sciencegateways.org/gateways2026).
